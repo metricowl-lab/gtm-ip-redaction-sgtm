@@ -1,0 +1,5 @@
+homepage: "https://www.metricowl.co.uk/gtm-templates"
+documentation: "https://github.com/metricowl-lab/gtm-ip-redaction-sgtm#readme"
+versions:
+  - sha: b9e259d6ced089fb52dc3db86fceba7241643d84
+    changeNotes: Initial release.
